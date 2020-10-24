@@ -14,11 +14,11 @@ namespace Practice_ReverseAString
             while (userContinue != "n")
             {
 
-                //take in a string a store in a var
+                //take in a string and store in a var
                 Console.WriteLine("Please enter a string.");
                 string userAnswer = Console.ReadLine();
 
-                //put string into an array
+                //put string into an char array
                 char[] userAnswerArray = userAnswer.ToCharArray();
 
                 //reverse array
