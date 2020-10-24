@@ -1,0 +1,13 @@
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-ReverseAString\Practice-ReverseAString\bin\Debug\netcoreapp3.1\Practice-ReverseAString.exe
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-ReverseAString\Practice-ReverseAString\bin\Debug\netcoreapp3.1\Practice-ReverseAString.deps.json
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-ReverseAString\Practice-ReverseAString\bin\Debug\netcoreapp3.1\Practice-ReverseAString.runtimeconfig.json
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-ReverseAString\Practice-ReverseAString\bin\Debug\netcoreapp3.1\Practice-ReverseAString.runtimeconfig.dev.json
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-ReverseAString\Practice-ReverseAString\bin\Debug\netcoreapp3.1\Practice-ReverseAString.dll
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-ReverseAString\Practice-ReverseAString\bin\Debug\netcoreapp3.1\Practice-ReverseAString.pdb
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-ReverseAString\Practice-ReverseAString\obj\Debug\netcoreapp3.1\Practice-ReverseAString.csprojAssemblyReference.cache
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-ReverseAString\Practice-ReverseAString\obj\Debug\netcoreapp3.1\Practice-ReverseAString.AssemblyInfoInputs.cache
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-ReverseAString\Practice-ReverseAString\obj\Debug\netcoreapp3.1\Practice-ReverseAString.AssemblyInfo.cs
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-ReverseAString\Practice-ReverseAString\obj\Debug\netcoreapp3.1\Practice-ReverseAString.csproj.CoreCompileInputs.cache
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-ReverseAString\Practice-ReverseAString\obj\Debug\netcoreapp3.1\Practice-ReverseAString.dll
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-ReverseAString\Practice-ReverseAString\obj\Debug\netcoreapp3.1\Practice-ReverseAString.pdb
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-ReverseAString\Practice-ReverseAString\obj\Debug\netcoreapp3.1\Practice-ReverseAString.genruntimeconfig.cache
