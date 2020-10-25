@@ -22,10 +22,20 @@ namespace Practice_ReverseAString
                 char[] userAnswerArray = userAnswer.ToCharArray();
 
                 //reverse array
-                Array.Reverse(userAnswerArray);
+                //Array.Reverse(userAnswerArray);
 
                 //print array in reverse order
-                Console.WriteLine(new string(userAnswerArray));
+                //Console.WriteLine(new string(userAnswerArray));
+
+
+                //Let's do a loop instead
+                List<char> reversedArray = new List<char> ();
+                for (int i = userAnswerArray.Length; i > 0; i--)
+                {
+                        reversedArray.Add(userAnswerArray[i - 1]);
+                }
+                        
+                Console.WriteLine(reversedArray.ToArray());
 
                 //The while-loop at the top comes full circle
                 //ask user if they want to try again
@@ -37,6 +47,7 @@ namespace Practice_ReverseAString
                     Console.WriteLine("Would you like to try again? y/n");
                     userContinue = Console.ReadLine().ToLower();
                 }
+
             }
         }
     }
